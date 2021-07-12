@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+You were only supposed to blow the bloody doors off
 Use the left arrow to go back!
